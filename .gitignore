@@ -31,9 +31,7 @@
 .cache/*
 
 # Project-specific
-dmenu_run
 dmenu
-dmenu_path
 stest
 
 machine.h
